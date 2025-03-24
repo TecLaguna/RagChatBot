@@ -30,7 +30,7 @@ Un RAGbot (Retrieval-Augmented Generation bot) es un chatbot que combina la gene
 Docker es una plataforma que permite empaquetar aplicaciones y sus dependencias en contenedores. Esto facilita el despliegue y la ejecución de aplicaciones en diferentes entornos sin problemas de compatibilidad.
 
 ### 0.5 ¿Qué es MongoDB?
-MongoDB es una base de datos NoSQL que almacena datos en formato JSON-like. En este proyecto, se utiliza para almacenar documentos y conversaciones de manera persistente.
+* MongoDB es una base de datos NoSQL que almacena datos en formato JSON-like. En este proyecto, se utiliza para almacenar documentos y conversaciones de manera persistente.
 ---
 
 ## 1. Introducción <a name="introducción"></a>
